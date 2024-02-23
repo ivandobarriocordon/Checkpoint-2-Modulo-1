@@ -1,0 +1,13 @@
+Task Two:
+Pagina utilizada:https://sebkay.com/articles
+Los colores que he encontrado en el inspeccionar elemento:
+#191A1D, #F9322C , #4B6CC1
+
+Task Three:
+User Story-Instagram: Usuario A (negocio online). Un vendedor de laminas de cristal pintadas utiliza la plataforma para subir fotos y videos  a publicaciones y historias para mostrar el contenido que vende. 
+A traves de la aplicacion antes de subir nada edita las fotos/videos para darle retoques.
+
+Task Four:El objetivo principal de Facebook es conectar con la gente de tu zona y ver su actividad, 
+el de Twitter es crearte una cuenta para seguir los temas que te interesen, 
+el de Google es buscar los datos que necesites en tu navegador 
+y el de Youtube es brindarte videos de tus intereses
