@@ -1,0 +1,33 @@
+Buenas Ivan,
+
+Este Checkpoint tenemos varios ejercicios prácticos y preguntas teóricas
+
+Ejercicio 1 https://docs.google.com/document/d/1UDwEZ5bKcE1X2o0JIuyFMgDyZ8M4AbSbPj2mXZ4dHkY/edit?usp=sharing
+
+Ejercicio 2 https://docs.google.com/document/d/1AftyzXRLnA47iSHGLNcypRuiRuO_wmDDLsMOrijo6Uw/edit
+
+Preguntas teóricas (por favor responde sin mirar ni apuntes ni documentación por internet, no hagamos trampas al solitario), explícamelo como si fuese tu alumno:
+
+cuatro valores que se pueden usar con la propiedad justify-content.
+Propiedades de justify content:
+flex-start
+flex-end
+right
+left
+Asigne un nombre a tres valores que se pueden utilizar con flex-direction, incluido el valor predeterminado que utiliza flexbox cuando se crea.
+valores de flex-direction:
+column
+colum-reverse
+inherit
+initial
+¿Cuál es un objetivo primordial?
+
+¿Qué son los wireframes de baja fidelidad?
+
+¿Qué es Git?
+
+¿Qué es un sitemap?
+
+
+
+Cuando tengas todo completo nos envías el enlace a través de este ticket
